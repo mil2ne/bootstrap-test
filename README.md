@@ -9,3 +9,9 @@
 - https://getbootstrap.com/docs/5.1/components/dropdowns/
 - https://getbootstrap.com/docs/5.1/components/list-group/
 
+## forms
+- https://getbootstrap.com/docs/5.1/forms/overview/
+
+## modal
+- https://getbootstrap.com/docs/5.1/components/modal/
+
