@@ -15,3 +15,6 @@
 ## modal
 - https://getbootstrap.com/docs/5.1/components/modal/
 
+## tooltips
+- https://getbootstrap.com/docs/5.1/components/tooltips/
+
