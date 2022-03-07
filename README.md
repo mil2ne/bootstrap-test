@@ -18,3 +18,6 @@
 ## tooltips
 - https://getbootstrap.com/docs/5.1/components/tooltips/
 
+## npm bootstrap
+- npm install bootstrap
+
